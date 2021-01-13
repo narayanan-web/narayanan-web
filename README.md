@@ -9,4 +9,6 @@
   <img alt="Narayanan's LinkedIn" width=30px  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>&nbsp;<a href="https://t.me/Narayanan_A">
   <img alt="Narayanan's Telegram" width=31px  src="https://user-images.githubusercontent.com/68996749/104467391-48f34280-55dc-11eb-818c-ef803fdcb43f.png" />
+</a>&nbsp;<a href="https://t.me/Narayanan_A">
+  <img alt="Narayanan's Telegram" width=31px  src="" />
 </a>
