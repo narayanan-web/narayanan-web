@@ -1,5 +1,6 @@
 # Hi, Collaborators <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-## I'm Narayanan 
+## I'm Narayanan
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" /><br>
 **Some Personal Stuffs :**
 - :man_student: Pursuing ECE in KIOT 
 - :computer: I love writing code and learning new Technolgies 
