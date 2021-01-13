@@ -24,8 +24,15 @@
   <code><img title="CSS" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/css.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/javascript.svg"></code>
   <code><img title="JQuery" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/jquery-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/GitHub-Mark-Light-64px.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/visualstudio.png"></code> 
   <code><img title="Problem Solving" height="25" src="https://github.com/narayanan-web/narayanan-web/blob/main/Images/problemSolving.png"></code>
 </p>
+<hr>
+<p>
+  <a href="https://github.com/narayanan-web?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayanan-web&show_icons=true&line_height=25&count_private=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats"/></a>&emsp;
+  <a href="https://github.com/narayanan-web"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan-web&langs_count=10&layout=compact&theme=tokyonight&"/></a>
+</p>
+  
