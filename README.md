@@ -34,5 +34,9 @@
   <a href="https://github.com/narayanan-web?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayanan-web&show_icons=true&line_height=25&count_private=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats"/></a>&emsp;
   <a href="https://github.com/narayanan-web"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan-web&langs_count=10&layout=compact&theme=tokyonight&"/></a>
+</p><br>
+  <p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/narayanan-web/count.svg" />
 </p>
   
