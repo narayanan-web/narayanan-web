@@ -32,8 +32,9 @@
 <hr>
 <p>
   <a href="https://github.com/narayanan-web?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayanan-web&show_icons=true&line_height=25&count_private=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats"/></a>
-  <a href="https://github.com/narayanan-web"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan-web&langs_count=10&layout=compact&theme=tokyonight&"/></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=narayanan-web&count_private=true&show_icons=true&line_height=25&count_private=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats"/>
+  </a>
+   <a href="https://github.com/narayanan-web"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan-web&count_private=true&langs_count=10&layout=compact&theme=tokyonight&"/></a>
 </p><br>
   <p align="center"> 
   Visitors count<br>
